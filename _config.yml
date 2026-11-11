@@ -6,11 +6,11 @@ paginate: 10
 paginate_path: "blog/page:num"
 plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 title: dawns blog               # Name of website
-avatar: https://ru.pinterest.com/pin/946107834242330648/         # Path of avatar image, to be displayed in the theme's header
+avatar: https://drive.google.com/file/d/1SlO6gTADjt9IjLg9dlfDtRPZrabn2oXR/view?usp=drive_link          # Path of avatar image, to be displayed in the theme's header
 description: dawns blog posts            # Short description, primarily used by search engines
 favicon: assets/favicon.ico           # Icon displayed in the tab
 color_theme: auto                    # color theme auto, dark or light
 header_text: Welcome to dawns blog
-footer_text: Copyright 2025-2026
-header_feature_image: https://ru.pinterest.com/pin/924363892277724614/
+footer_text: 2025-2026
+header_feature_image: https://drive.google.com/file/d/1SlO6gTADjt9IjLg9dlfDtRPZrabn2oXR/view?usp=drive_link
 header_feature_image_responsive: true
